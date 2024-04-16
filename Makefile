@@ -1,2 +1,2 @@
 update-list:
-	@ls *.npz > file_list.txt
+	@ls *.npz *.bin *.xbin > file_list.txt
